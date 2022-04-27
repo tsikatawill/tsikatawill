@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @tsikatawill
-- 👀 I’m interested in Python, Django, React, Javascript, SASS,...
-- 🌱 I’m currently learning React JS x Django REST Framework
-- 💞️ I’m looking to collaborate on any open source project
-- 📫 Email me tsikatawill@gmail.com
+- 👀 I’m a frontend developer interested in Python, Django, , Javascript, SASS,...
+- 🌱 I’m currently broadening my portfolio with projects built with React
+- 💞️ I’m looking to collaborate on interesting open source projects
+- 📫 Email me at tsikatawill@gmail.com
 - 📞 Call me on +233-550-381-060
 
 <!---
