@@ -10,7 +10,7 @@
 I build with Javascript, Typescript, React and Next JS
 
 ## Coding Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tsikatawill&theme=dark)](https://git.io/streak-stats)
 
 ## Contact me
 - 📫 Email: tsikatawill@gmail.com - 📞 Call me on +233-550 381 060
