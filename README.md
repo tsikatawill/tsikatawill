@@ -1,9 +1,19 @@
-# 👋 Hi, I’m @tsikatawill
-- 👀 I’m a frontend developer interested in Python, Django, , Javascript, SASS,...
+# 👋 Hi, I’m William Tsikata
+
+## Frontend Engineer | <a target="_blank" rel="noopener noreferrer" href="https://williamtsikata.vercel.app/"> 🌍 Portfolio </a>
+
 - 🌱 I’m currently broadening my portfolio with projects built with React
 - 💞️ I’m looking to collaborate on interesting open source projects
-- 📫 Email me at tsikatawill@gmail.com
-- 📞 Call me on +233-550-381-060
+
+
+## 💻 Technologies & Languages
+I build with Javascript, Typescript, React and Next JS
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+## Contact me
+- 📫 Email: tsikatawill@gmail.com - 📞 Call me on +233-550 381 060
 
 <!---
 tsikatawill/tsikatawill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
