@@ -9,7 +9,7 @@
 ## 💻 Technologies & Languages
 I build with Javascript, Typescript, React and Next JS
 
-
+## Coding Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ## Contact me
